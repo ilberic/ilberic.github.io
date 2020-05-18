@@ -1,0 +1,12 @@
+{
+	"version": 3,
+	"file": "style.css",
+	"sources": [
+		"../sass/style.sass"
+	],
+	"sourcesContent": [
+		".main {\n    width: 1280px;\n    margin: 0 auto;\n    background-color: #e6c1c1;\n    margin: 0 auto;\n    text-align: center;\n    &_text {\n        color: green;\n        font-size: 30px; }\n    h2 {\n        color: gray; }\n    p {\n        height: 100px; } }\n"
+	],
+	"names": [],
+	"mappings": ";AAAA,AAAA,KAAK,CAAC;EACF,KAAK,EAAE,MAAM;EACb,MAAM,EAAE,MAAM;EACd,gBAAgB,EAAE,OAAO;EACzB,MAAM,EAAE,MAAM;EACd,UAAU,EAAE,MAAM;CAOI;;;AANrB,AAAD,UAAM,CAAC;EACH,KAAK,EAAE,KAAK;EACZ,SAAS,EAAE,IAAI;CAAG;;;AAR1B,AASI,KATC,CASD,EAAE,CAAC;EACC,KAAK,EAAE,IAAI;CAAG;;;AAVtB,AAWI,KAXC,CAWD,CAAC,CAAC;EACE,MAAM,EAAE,KAAK;CAAG"
+}
